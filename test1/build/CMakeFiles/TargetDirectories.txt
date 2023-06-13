@@ -1,0 +1,3 @@
+/Users/zhuyu/Desktop/cmake_practice/test1/build/CMakeFiles/hello.dir
+/Users/zhuyu/Desktop/cmake_practice/test1/build/CMakeFiles/edit_cache.dir
+/Users/zhuyu/Desktop/cmake_practice/test1/build/CMakeFiles/rebuild_cache.dir

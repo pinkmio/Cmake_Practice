@@ -1,0 +1,14 @@
+/Users/zhuyu/Desktop/cmake_practice/test3/build/CMakeFiles/edit_cache.dir
+/Users/zhuyu/Desktop/cmake_practice/test3/build/CMakeFiles/rebuild_cache.dir
+/Users/zhuyu/Desktop/cmake_practice/test3/build/CMakeFiles/list_install_components.dir
+/Users/zhuyu/Desktop/cmake_practice/test3/build/CMakeFiles/install.dir
+/Users/zhuyu/Desktop/cmake_practice/test3/build/CMakeFiles/install/local.dir
+/Users/zhuyu/Desktop/cmake_practice/test3/build/CMakeFiles/install/strip.dir
+/Users/zhuyu/Desktop/cmake_practice/test3/build/lib/CMakeFiles/hello.dir
+/Users/zhuyu/Desktop/cmake_practice/test3/build/lib/CMakeFiles/hello_static.dir
+/Users/zhuyu/Desktop/cmake_practice/test3/build/lib/CMakeFiles/edit_cache.dir
+/Users/zhuyu/Desktop/cmake_practice/test3/build/lib/CMakeFiles/rebuild_cache.dir
+/Users/zhuyu/Desktop/cmake_practice/test3/build/lib/CMakeFiles/list_install_components.dir
+/Users/zhuyu/Desktop/cmake_practice/test3/build/lib/CMakeFiles/install.dir
+/Users/zhuyu/Desktop/cmake_practice/test3/build/lib/CMakeFiles/install/local.dir
+/Users/zhuyu/Desktop/cmake_practice/test3/build/lib/CMakeFiles/install/strip.dir
